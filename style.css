@@ -1,0 +1,22 @@
+body{
+	background-color: #000;
+}
+.square{
+	width: 150px;
+	height: 80px;
+	background-color: #f00;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: center;
+	-ms-align-items: center;
+	align-items: center;
+	position: absolute;
+	top:0;
+	left: 0;
+}
+.dvd_img{
+	width: 120px;
+}
